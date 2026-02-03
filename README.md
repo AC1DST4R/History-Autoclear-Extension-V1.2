@@ -1,9 +1,9 @@
 ## Linkies ⛓️
-__
+_
 ### Extension 🧩
-__
+_
 https://addons.mozilla.org/en-US/firefox/addon/ac1d-s-auto-history-clearer/
 
 ### Version 1.0 ⏮️
-__
+_
 https://github.com/AC1DST4R/History-Autoclear-Extension-V1.0
